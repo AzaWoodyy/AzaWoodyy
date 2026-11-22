@@ -10,7 +10,8 @@ Développeur à Annecy, je construis des applications de bout en bout depuis 202
 
 - Les questions courantes passent par des outils SQL typés. Le modèle n’écrit du SQL que lorsque ces outils ne suffisent pas, et ce SQL est contrôlé puis exécuté en lecture seule.
 - Les données viennent de Leaguepedia et sont mises à jour chaque jour, sans redéploiement.
-- Next.js, TypeScript, AI SDK, Postgres (Neon), Vercel.
+- En bêta : un mode conversation avec des comptes et des fils enregistrés, et une authentification gérée par Clerk.
+- Next.js, TypeScript, AI SDK, Postgres (Neon), Clerk, Vercel.
 
 **[Essayer Farsight](https://askfarsight.com)** · [Code source](https://github.com/AzaWoodyy/farsight)
 
